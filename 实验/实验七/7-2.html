@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        img
+        { width: 271px;
+			height: 270px
+           
+        }
+    </style>
+    <script type="text/javascript">
+        function my_open()
+        {
+            let my_image=document.getElementById("my_img");
+            my_image.src="../../img/灯2.png";
+        }
+        function my_close()
+        {
+            let my_image=document.getElementById("my_img");
+            my_image.src="../../img/灯1.png";
+        }
+    </script>
+</head>
+<body>
+<div>
+    <button onclick="my_close()" >关灯</button>
+    <img id="my_img" src="../../img/灯1.png" alt="#" />
+    <button onclick="my_open()" >开灯</button>
+</div>
+</body>
+</html>
