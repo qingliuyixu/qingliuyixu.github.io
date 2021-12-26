@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.login{
+	margin: auto;
+	width: 300px;
+	padding: 15px;
+	border: dashed 2px #B7DDF2;
+	background-color: aliceblue;
+}
+.login h2{
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+	border-bottom: solid 1px #b7ddf2;
+}
+.login.content{padding: 5px;}
+.login.frm_cont{margin-bottom: 8px;}
+.login.username input,.login.password input{
+	width: 180px;
+	height: 18px;
+	padding-bottom: 2px;
+	padding-left: 0px;
+	padding-right: 2px;
+	padding-top: 18px;
+}
+.login.username input{background: #FFF url("../png/username_bg.jpg")no-repeat left center;}
+.login.password input{background: #FFF url("../png/password_bg.jpg")no-repeat left center;}
+.login.btns{text-align: center;}

@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+#box{width: 650px;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+	background-color:aqua}
+#header{width: 620px;
+	height: 200px;
+	float:left;
+	margin-left: 20px;
+	background-color: red;
+	margin-top: 10px}
+#logo{width: 180px;
+	height: 40px;float:left;
+	margin-left: 20px;
+	background-color: yellow;
+	margin-top: 10px;
+	padding: 2px 0 8px 10px}
+#banner{width: 260px;
+	height: 40px;
+	float:left;
+	margin-left: 40px;
+	background-color: blue;
+	margin-top: 10px;
+	padding: 2px 0 8px 10px}
+#menue{width: 490px;
+	height: 40px;
+	float:left;
+	margin-left: 20px;
+	margin-top: 20px;
+	background-color: darkolivegreen;
+	padding: 8px 0 8px 10px}
+#main{width: 620px;
+	height: 300px;
+	float:left;
+	margin-left: 20px;
+	background-color: darkolivegreen;
+	margin-top: 10px}
+#sidebar{width: 180px;
+	height: 220px;
+	float:left;
+	margin-left: 20px;
+	background-color: blue;
+	margin-top: 10px;
+	padding: 2px 0 8px 10px}
+#content{width: 260px;
+	height: 220px;
+	float:left;
+	margin-left: 40px;
+	background-color:darkorange;
+	margin-top: 10px;
+	padding: 2px 20px 0 10px}
+#footer{width: 580px;
+	height: 40px;
+	float:left;
+	margin-left: 20px;
+	background-color:red;
+	margin-top: 10px;
+	padding: 2px 20px 0px 10px}

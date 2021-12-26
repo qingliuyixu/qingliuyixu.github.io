@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:blanchedalmond;
+}
+img{
+	border: 1px;
+	float: right;
+	padding-top: 10px;
+	padding-right: 0;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	height: 300px;
+	width: 400px;
+}
+p{
+	text-indent: 35px;
+	line-height: 30px;
+}
+.content{
+	width: 1000px;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
